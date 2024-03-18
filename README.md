@@ -35,7 +35,7 @@ This Milk Sales Management Software is a Java Swing application designed to faci
 ## Installation
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/your_username/milk-sales-management.git
+    git clone https://github.com/derroh/Milk-Sales-Management-Software.git
     ```
 
 2. **Set up MySQL Database:**
